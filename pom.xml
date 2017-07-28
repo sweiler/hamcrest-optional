@@ -10,7 +10,7 @@
 
 	<groupId>com.github.npathai</groupId>
 	<artifactId>hamcrest-optional</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>2.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>Hamcrest Optional</name>
@@ -29,6 +29,12 @@
 			<name>Stefan Birkner</name>
 			<email>mail@stefan-birkner.de</email>
 			<url>http://www.stefan-birkner.de</url>
+		</developer>
+		<developer>
+			<id>sweiler@thoughtworks.com</id>
+			<name>Simon Weiler</name>
+			<email>sweiler@thoughtworks.com</email>
+			<url>https://github.com/sweiler</url>
 		</developer>
 	</developers>
 
